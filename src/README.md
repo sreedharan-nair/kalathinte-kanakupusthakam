@@ -1,10 +1,7 @@
 
 <div class="title-page">
-<!-- 
-# കാലത്തിന്റെ കണക്കുപുസ്തകം
-## (ഒരു പുനർവായന) -->
 
-# ജീവിതം എന്ന കണക്കുപുസ്തകം 
+# കാലം എന്ന കണക്കുപുസ്തകം 
 
 ## (ഒരു പുനർവായന)
 
@@ -14,8 +11,10 @@
 
 <!-- Covers: choose which one shows with the COVER constant at the top of book-extras.js -->
 <div class="cover-art">
-<img data-cover="A" src="images/cover-margin-line.jpg" alt="Cover: ജീവിതം എന്ന കണക്കുപുസ്തകം (ഒരു പുനർവായന), margin line design">
-<img data-cover="B" src="images/cover-tally.jpg" alt="Cover: ജീവിതം എന്ന കണക്കുപുസ്തകം (ഒരു പുനർവായന), tally marks design">
+<img data-cover="A" src="images/cover-margin-line.jpg" alt="Cover: കാലം എന്ന കണക്കുപുസ്തകം (ഒരു പുനർവായന), margin line design">
+<img data-cover="B" src="images/cover-tally.jpg" alt="Cover: കാലം എന്ന കണക്കുപുസ്തകം (ഒരു പുനർവായന), tally marks, teal">
+<img data-cover="C" src="images/cover-tally-maroon.jpg" alt="Cover: കാലം എന്ന കണക്കുപുസ്തകം (ഒരു പുനർവായന), tally marks, maroon">
+<img data-cover="D" src="images/cover-open-book.jpg" alt="Cover: കാലം എന്ന കണക്കുപുസ്തകം, open book">
 </div>
 
 </div>

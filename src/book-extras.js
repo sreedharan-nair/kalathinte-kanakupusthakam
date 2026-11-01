@@ -1,5 +1,5 @@
-/* Cover choice: "A" (margin line), "B" (tally marks) or "none" (typed title only) */
-const COVER = "A";
+/* Cover choice: "A" margin line · "B" tally marks, teal · "C" tally marks, maroon · "D" open book · "none" typed title only */
+const COVER = "D";
 document.documentElement.dataset.cover = COVER;
 
 /* Text-size buttons + reading progress bar for the book.

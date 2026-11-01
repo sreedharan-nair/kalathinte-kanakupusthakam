@@ -747,7 +747,9 @@ body,
 .content main .title-page .cover-art img{display:none;width:min(420px,100%);height:auto;margin:0 auto;border-radius:3px;box-shadow:0 3px 14px rgba(0,0,0,.28)}
 :root:not([data-cover]) .cover-art img[data-cover="A"],
 :root[data-cover="A"] .cover-art img[data-cover="A"],
-:root[data-cover="B"] .cover-art img[data-cover="B"]{display:block}
+:root[data-cover="B"] .cover-art img[data-cover="B"],
+:root[data-cover="C"] .cover-art img[data-cover="C"],
+:root[data-cover="D"] .cover-art img[data-cover="D"]{display:block}
 /* With a cover showing, the typed title block stays in the page for the sidebar and search but is hidden visually */
 :root:not([data-cover="none"]) .content main .title-page > :is(h1,h2,hr,.author-name){position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;margin:0;padding:0;border:0}
 /* With a cover showing, drop the title-page double rules and spacing */
